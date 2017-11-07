@@ -1,0 +1,13 @@
+{
+  "name": "cube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-run-sequence": "^0.3.2",
+    "gulp-scss": "^1.4.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
